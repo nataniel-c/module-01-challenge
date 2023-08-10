@@ -9,5 +9,13 @@ SO THAT our own site is optimized for search engines
 
 ## Website Link
 
-## Website Image
+## Website Screenshots
 
+![screenshot1](./Develop/assets/images/Screenshot-1.PNG)
+---
+
+![screenshot2](./Develop/assets/images/Screenshot-2.PNG)
+---
+
+![screenshot3](./Develop/assets/images/Screenshot-3.PNG)
+---
